@@ -2,7 +2,7 @@
 
 Elevate your WordPress login page with Custom Login Logo by Taukir. This powerful plugin allows you to effortlessly customize the login logo and URL, creating a branded and seamless experience for your users.
 
-Visit [https://taukir.me](https://taukir.me) for more information. Connect with the author at [https://taukir.me](https://taukir.me).
+Visit [https://taukir.com](https://taukir.com) for more information. Connect with the author at [https://taukir.com](https://taukir.com).
 
 ## Key Features
 
