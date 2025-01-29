@@ -34,9 +34,6 @@ Visit [https://taukir.com](https://taukir.com) for more information. Connect wit
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/taukir007)  
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)](https://facebook.com/imph3n1x)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributions
 
 We welcome contributions! Feel free to submit issues or pull requests.
